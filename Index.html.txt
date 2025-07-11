@@ -1,10 +1,21 @@
+<!DOCTYPE html>
 <html>
-	<head>
+<head>
+	<meta charset="UTF-8" />
+	<title>title</title>
+</head>
+<body>
+	
+	<!-- Page Background Color-->
+	 <style>
 
-	</head>
-	<body>
-	<h1>
-		Hello Krema
-	</h1>
-	</body>
+		 body {
+      		background-color: #333333; /* Changes the page backgrounbd color to gray */
+     		color: white; /* Optional: makes text readable on dark background */
+   		 }
+
+	 </style>
+
+
+</body>
 </html>
