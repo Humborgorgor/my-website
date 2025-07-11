@@ -1,43 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My GitHub Website</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 2rem;
-      background-color: #f9f9f9;
-      color: #333;
-      text-align: center;
-    }
-    header {
-      background-color: #24292e;
-      color: white;
-      padding: 1rem 0;
-    }
-    main {
-      max-width: 600px;
-      margin: 2rem auto;
-    }
-    a {
-      color: #0366d6;
-    }
-  </style>
+  body {
+    background-color: #1e1e1e;  /* charcoal gray */
+    color: #e0e0e0;             /* light gray text for readability */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 2rem;
+  }
+</style>
 </head>
-<body>
-  <header>
-    <h1>Welcome to My Website</h1>
-  </header>
-  <main>
-    <p>This is a simple homepage hosted on <strong>GitHub Pages</strong>.</p>
-    <p>Edit <code>index.html</code> to customize your content.</p>
-    <p>
-      Learn more about
-      <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.
-    </p>
-  </main>
-</body>
 </html>
